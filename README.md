@@ -4,6 +4,11 @@
 
 This project involves analyzing data from the MovieLens platform to create insights for the "Movie Talkies: Classic" edition. The goal is to explore classic movies (released until the year 2000) and provide a detailed analysis of user preferences, demographics, and movie ratings. The analysis is presented through an interactive Power-BI Report.
 
+## Preview
+### Power-BI Movie-Analysis-Report SnapShot
+![Movie_Analysis_Report_Snapshot](movie_report.png)
+
+
 ## Business Context
 
 MovieLens is an online platform that provides a comprehensive database of movies, TV series, and streaming content. The company aims to connect with viewers who have strong movie preferences and promote classic movies to attract new customers. This project focuses on understanding the characteristics of classic movies, user interests, and the relationship between user demographics and movie ratings.
