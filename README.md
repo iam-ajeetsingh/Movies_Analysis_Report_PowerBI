@@ -79,7 +79,7 @@ The analysis is presented through an interactive Power BI Report, which includes
 
 ## Files in the Repository
 
-- **`MovieLens_Classic_Analysis.pbix`**: The Power BI report file containing the analysis and visualizations.
+- **`Movie_lens_Project.pbix`**: The Power BI report file containing the analysis and visualizations.
 - **`README.md`**: This file, providing an overview of the project.
 
 ## Tools and Technologies
